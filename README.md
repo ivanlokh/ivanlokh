@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ivan Lokh</h1>
 
-<a href="https://t.me/ivan_liokh_ua" target="_blank">
-  <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" target="_blank">
+<a href="https://t.me/ivan_liokh_ua" target="blank">
+  <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" target="blank">
  </a>
 
 <a href="https://instagram.com/ivanliokh" target="_blank">
