@@ -27,7 +27,7 @@
 
 <p align="center">
 <a href="#" target="_blank">
- <img src="/assets/стрелка.gif" target="_blank" height="30" width="30">
+ <img src="/assets/стрелка.gif" target="_blank" height="80" width="80">
 </a>
 </p>
 <p align="center">
