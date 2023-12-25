@@ -14,8 +14,12 @@
 <a href="https://www.linkedin.com/in/ivan-lokh-455655147" target="_blank">
  <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
 </a>
-[![HTML](https://img.shields.io/badge/-discord-070404?style=for-the-badge&logo=discord&logoColor=)](https://discord.com/invite/TynjQvBRXu)
----
+
+<a href="https://discord.com/invite/TynjQvBRXu" target="_blank">
+ <img src="https://img.shields.io/badge/-discord-070404?style=for-the-badge&logo=discord&logoColor=" target="_blank">
+</a>
+
+## [![HTML](https://img.shields.io/badge/-discord-070404?style=for-the-badge&logo=discord&logoColor=)](https://discord.com/invite/TynjQvBRXu)
 
 <p align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&pause=1000&color=6495ED&center=true&vCenter=true&width=435&lines=Developer" alt="Typing SVG" /></a>
