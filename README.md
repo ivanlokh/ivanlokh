@@ -26,8 +26,8 @@
 </p>
 
 <p align="center">
-<a href="https://www.buymeacoffee.com/ivanlokhe"><img src="/assets/buymeacoffee.jpg" width="1005" 
-   height="735" ></a>
+<a href="https://www.buymeacoffee.com/ivanlokhe"><img src="/assets/buymeacoffee.jpg" width="#" 
+   height="#" ></a>
 </p>
 
 <h1 align="center">About Myself:</h1>
