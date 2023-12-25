@@ -21,7 +21,9 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&pause=1000&color=449C3C&center=true&vCenter=true&width=435&lines=Developer" alt="Typing SVG" /></a>
 </p>
 
+<p align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=DGi.org&pause=1000&color=C38AF7&center=%D0%9B%D0%9E%D0%96%D0%AC&vCenter=%D0%9B%D0%9E%D0%96%D0%AC&multiline=true&width=435&lines=DGi.org%2C+HTML%2C+JavaScript+and+Python" alt="Typing SVG" /></a>
+</p>
 
 <h1 align="center">About Myself:</h1>
 
