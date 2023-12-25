@@ -22,7 +22,7 @@
 </p>
 
 <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=DGi.org&pause=1000&color=7a7a7a&center=%D0%9B%D0%9E%D0%96%D0%AC&vCenter=%D0%9B%D0%9E%D0%96%D0%AC&multiline=true&width=435&lines=Html5%2C+Css3%2CJavaScript+and+Python%2CDjango" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=DGi.org&pause=1000&color=7a7a7a&center=%D0%9B%D0%9E%D0%96%D0%AC&vCenter=%D0%9B%D0%9E%D0%96%D0%AC&multiline=true&width=435&lines=Html5%2CCss3%2CJavaScript+and+Python%2CDjango" alt="Typing SVG" /></a>
 </p>
 
 <h1 align="center">About Myself:</h1>
