@@ -40,6 +40,6 @@
 
 <p align="center">
 <a href="#" target="_blank">
- <img src="/assets/21-18-05-265_512.webp" target="_blank">
+ <img src="/assets/21-18-05-265_512.webp" target="_blank" height="250" width="250">
 </a>
 </p>
