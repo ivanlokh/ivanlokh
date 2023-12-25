@@ -39,7 +39,7 @@
 <p align="center"><img src="./assets/hit.gif" width="28" /> My Skills:</p>
 
 <p align="center">
-<a href="#"
+<a href="#" target="_blank">
  <img src="/assets/21-18-05-265_512.webp" target="_blank">
 </a>
 </p>
