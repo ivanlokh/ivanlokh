@@ -18,8 +18,14 @@
 ---
 
 <p align="center">
-   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&pause=1000&color=449C3C&center=true&vCenter=true&width=435&lines=Developer" alt="Typing SVG" /></a>
+
+<h2 align="center">Hello, I'm Ivan <img src="./assets/wave.gif" width="28" /> <br> I'm 35-45 Y. O. <img src="./assets/victory.gif" width="28" /> <br>Developer from Ukraine <img src="./assets/coffee.gif" width="28" /></h2>
+
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&pause=1000&color=449C3C&center=true&vCenter=true&width=435&lines=Developer" alt="Typing SVG" /></a>
+
 </p>
+
+<h1 align="center">About Myself:</h1>
 
 ---
 
