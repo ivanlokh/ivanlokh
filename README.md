@@ -25,7 +25,7 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=DGi.org&pause=1000&color=7a7a7a&center=%D0%9B%D0%9E%D0%96%D0%AC&vCenter=%D0%9B%D0%9E%D0%96%D0%AC&multiline=true&width=435&lines=Html5%2CCss3%2CJS+and+Python%2CDjango%2CSQL" alt="Typing SVG" /></a>
 </p>
 
-<p><a href="https://www.buymeacoffee.com/UkraineGrivnya"><img src="/assets/1_lFGfRfSp_d-UCeUfRaB0yg.jpg" width="1005" 
+<p><a href="https://www.buymeacoffee.com/ivanlokhe"><img src="/assets/buymeacoffee.jpg" width="1005" 
    height="735" ></a></p>
 
 <h1 align="center">About Myself:</h1>
