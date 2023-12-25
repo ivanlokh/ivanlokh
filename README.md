@@ -30,7 +30,6 @@
  <img src="/assets/стрелка.gif" target="_blank" height="30" width="30">
 </a>
 </p>
-
 <p align="center">
 <a href="https://www.buymeacoffee.com/ivanlokhe"><img src="/assets/buymeacoffee1.jpg" width="#" 
    height="#" ></a>
