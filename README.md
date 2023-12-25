@@ -24,7 +24,7 @@
 </p>
 
 <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=DGi.org&pause=1000&color=20B2AA&center=%D0%9B%D0%9E%D0%96%D0%AC&vCenter=%D0%9B%D0%9E%D0%96%D0%AC&multiline=true&width=435&lines=Html%2CCss%2CJS%2CBootstrap%2CPython%2CDjango%2CSQL" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=DGi.org&pause=1000&color=FFFF00&center=%D0%9B%D0%9E%D0%96%D0%AC&vCenter=%D0%9B%D0%9E%D0%96%D0%AC&multiline=true&width=435&lines=Html%2CCss%2CJS%2CBootstrap%2CPython%2CDjango%2CSQL" alt="Typing SVG" /></a>
 </p>
 
 <p align="center">
