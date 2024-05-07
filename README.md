@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ivan Lokh</h1>
+<!-- <h1 align="center">Hi 👋, I'm Ivan Lokh</h1>
 
 <a href="#">
     <img src="https://img.shields.io/badge/portfolio-233233.svg?style=for-the-badge&logo=anime.js&logoColor=white" target="_blank">
@@ -33,7 +33,7 @@
 </a>
 </p>
 <p align="center">
-<a href="https://www.buymeacoffee.com/ivanlokhe"><img src="/assets/buymeacoffee1.jpg" width="#" 
+<a href="https://www.buymeacoffee.com/ivanlokhe"><img src="/assets/buymeacoffee1.jpg" width="#"
    height="#" ></a>
 </p>
 
@@ -49,21 +49,21 @@
 <a href="#" target="_blank">
  <img src="/assets/21-18-05-265_512.webp" target="_blank" height="30" width="30">
 </a>
-</p>
+</p> -->
 
 <!-- <table><tr><td valign="top" width="33%">
 
  ### Frontend
 
-<div align="center">  
-<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="83" /></a>    
-<a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="83" /></a>  
-<a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="70" /></a>  
-<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="70" /></a>  
+<div align="center">
+<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="83" /></a>
+<a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="83" /></a>
+<a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="70" /></a>
+<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="70" /></a>
 <a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="70" /></a>
   <a href="https://redux.js.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/redux-original.svg" alt="Redux" height="70" /></a>
 
-</div> 
+</div>
 
 </td><td valign="top" width="33%">
 
