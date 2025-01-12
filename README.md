@@ -1,4 +1,4 @@
-<!-- <h1 align="center">Hi 👋, I'm Ivan Lokh</h1>
+<h1 align="center">Hi 👋, I'm Ivan Lokh</h1>
 
 <a href="#">
     <img src="https://img.shields.io/badge/portfolio-233233.svg?style=for-the-badge&logo=anime.js&logoColor=white" target="_blank">
@@ -81,7 +81,7 @@
 
 </div>
 
-</td></tr></table> -->
+</td></tr></table>
 
 
 <a href="https://visitcount.itsvg.in">
