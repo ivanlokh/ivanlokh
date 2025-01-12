@@ -33,7 +33,7 @@
 </a>
 </p>
 <p align="center">
-<a href="https://www.buymeacoffee.com/ivanlokhe"><img src="/assets/buymeacoffee1.jpg" width="#"
+<a href="https://www.buymeacoffee.com/ivanlokh"><img src="/assets/buymeacoffee1.jpg" width="#"
    height="#" ></a>
 </p>
 
