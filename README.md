@@ -23,8 +23,8 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&pause=1000&color=6495ED&center=true&vCenter=true&width=435&lines=Developer" alt="Typing SVG" /></a>
 </p>
 
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&pause=1000&color=27DEF7&width=435&lines=Html+Css+Bootstrap+JS+React+Python+Django+SQL%2FMySQL%2FPostgreSQL)](https://git.io/typing-svg)
+<p align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=WDXL+Lubrifont+TC&weight=900&size=14&pause=1000&color=29837F&width=435&lines=Html%2CCss%2CBootstrap%2CJS%2CReact;Python%2CDjango%2CSQL%2CMySQL%2CPostgreSQL" alt="Typing SVG" /></a>
 
 <!-- <p align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=DGi.org&pause=1000&color=5F9EA0&center=%D0%9B%D0%9E%D0%96%D0%AC&vCenter=%D0%9B%D0%9E%D0%96%D0%AC&multiline=true&width=435&lines=Html%2CCss%2CBootstrap%2CJS%2CReact%2CPython%2CDjango%2CSQL" alt="Typing SVG" /></a>
