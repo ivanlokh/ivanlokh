@@ -1,4 +1,4 @@
-<!-- <h1 align="center">Hi 👋, I'm Ivan Lokh</h1>
+<h1 align="center">Hi 👋, I'm Ivan Lokh</h1>
 
 <a href="#">
     <img src="https://img.shields.io/badge/portfolio-233233.svg?style=for-the-badge&logo=anime.js&logoColor=white" target="_blank">
@@ -33,7 +33,7 @@
 </a>
 </p>
 <p align="center">
-<a href="https://www.buymeacoffee.com/ivanlokhe"><img src="/assets/buymeacoffee1.jpg" width="#"
+<a href="https://www.buymeacoffee.com/ivanlokh"><img src="/assets/buymeacoffee1.jpg" width="#"
    height="#" ></a>
 </p>
 
@@ -49,7 +49,7 @@
 <a href="#" target="_blank">
  <img src="/assets/21-18-05-265_512.webp" target="_blank" height="30" width="30">
 </a>
-</p> -->
+</p> 
 
 <!-- <table><tr><td valign="top" width="33%">
 
@@ -81,7 +81,7 @@
 
 </div>
 
-</td></tr></table> -->
+</td></tr></table>
 
 
 <a href="https://visitcount.itsvg.in">
