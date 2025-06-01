@@ -23,7 +23,7 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&pause=1000&color=6495ED&center=true&vCenter=true&width=435&lines=Developer" alt="Typing SVG" /></a>
 </p>
 
-<p align="center">
+<p align="right">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=WDXL+Lubrifont+TC&weight=900&size=14&pause=1000&color=29837F&width=435&lines=Html%2CCss%2CBootstrap%2CJS%2CReact;Python%2CDjango%2CSQL%2CMySQL%2CPostgreSQL" alt="Typing SVG" /></a>
 
 <!-- <p align="center">
