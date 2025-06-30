@@ -40,6 +40,20 @@
    height="#" ></a>
 </p>
 
+
+
+<p align="center">
+<a href="#" target="_blank">
+ <img src="/assets/стрелка.gif" target="_blank" height="80" width="80">
+</a>
+</p>
+<p align="center">
+<a href="https://ko-fi.com/ivanlokh"><img src="/assets/coffee.gif" width="#"
+   height="#" ></a>
+</p>
+
+
+
 <!-- <h1 align="center">About Myself:</h1>
 
 <h2 align="center">Hello, I'm Ivan <img src="./assets/wave.gif" width="28" /> <br> I'm 35-45 Y. O. <img src="./assets/victory.gif" width="28" /> <br>Developer from Ukraine <img src="./assets/coffee.gif" width="28" /></h2>
