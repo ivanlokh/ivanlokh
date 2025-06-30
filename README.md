@@ -48,7 +48,7 @@
 </a>
 </p>
 <p align="center">
-<a href="https://ko-fi.com/ivanlokh"><img src="/assets/coffee.gif" width="#"
+<a href="https://ko-fi.com/ivanlokh"><img src="/assets/source.gif" width="#"
    height="#" ></a>
 </p>
 
