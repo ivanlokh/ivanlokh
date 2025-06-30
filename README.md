@@ -48,8 +48,8 @@
 </a>
 </p>
 <p align="center">
-<a href="https://ko-fi.com/ivanlokh"><img src="/assets/Ko-fi_Logo_RGB-2-1024x372.png" width="#"
-   height="#" ></a>
+<a href="https://ko-fi.com/ivanlokh"><img src="/assets/Ko-fi_Logo_RGB-2-1024x372.png" width="600"
+   height="600 ></a>
 </p>
 
 
