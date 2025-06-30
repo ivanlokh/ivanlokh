@@ -44,7 +44,7 @@
 
 <p align="center">
 <a href="#" target="_blank">
- <img src="/assets/стрелка.gif" target="_blank" height="80" width="80">
+ <img src="/assets/стрелка.gif" target="_blank" height="100" width="100">
 </a>
 </p>
 <p align="center">
