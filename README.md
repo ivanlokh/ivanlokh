@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ivan Lokh</h1>
+<!-- <h1 align="center">Hi 👋, I'm Ivan Lokh</h1>
 
 <a href="#">
     <img src="https://img.shields.io/badge/portfolio-233233.svg?style=for-the-badge&logo=anime.js&logoColor=white" target="_blank">
@@ -24,7 +24,7 @@
 </p>
 
 <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=WDXL+Lubrifont+TC&weight=600&size=14&pause=1000&color=29837F&width=435&lines=Html%2CCss%2CBootstrap%2CJS%2CReact;Python%2CDjango%2CSQL%2CMySQL%2CPostgreSQL" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=WDXL+Lubrifont+TC&weight=600&size=14&pause=1000&color=29837F&width=435&lines=Html%2CCss%2CBootstrap%2CJS%2CReact;Python%2CDjango%2CSQL%2CMySQL%2CPostgreSQL" alt="Typing SVG" /></a> -->
 
 <!-- <p align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=DGi.org&pause=1000&color=5F9EA0&center=%D0%9B%D0%9E%D0%96%D0%AC&vCenter=%D0%9B%D0%9E%D0%96%D0%AC&multiline=true&width=435&lines=Html%2CCss%2CBootstrap%2CJS%2CReact%2CPython%2CDjango%2CSQL" alt="Typing SVG" /></a>
@@ -40,7 +40,7 @@
    height="#" ></a>
 </p>
 
-<h1 align="center">About Myself:</h1>
+<!-- <h1 align="center">About Myself:</h1>
 
 <h2 align="center">Hello, I'm Ivan <img src="./assets/wave.gif" width="28" /> <br> I'm 35-45 Y. O. <img src="./assets/victory.gif" width="28" /> <br>Developer from Ukraine <img src="./assets/coffee.gif" width="28" /></h2>
 
@@ -52,7 +52,7 @@
 <a href="#" target="_blank">
  <img src="/assets/21-18-05-265_512.webp" target="_blank" height="30" width="30">
 </a>
-</p> 
+</p>  -->
 
 <!-- <table><tr><td valign="top" width="33%">
 
